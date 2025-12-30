@@ -1,7 +1,6 @@
 % Lecture: Condition Monitoring
 % Project: Damage detection on bearings
 % Name: Yasin Büyükarslan
-% Matrikelnummer: 1626421
 % Datum: 26.03.2025
 
 
