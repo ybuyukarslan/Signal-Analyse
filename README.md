@@ -71,7 +71,7 @@ and multiplied by the rotational frequency `fn` to obtain values in Hz.
 ## Repository Structure
 
 .
-├── YasinBüyükarslan-1626421.m  
+├── signalanalyse.m  
 ├── hcurve_fun.m  
 ├── file_003_23192324.mat 
 ├── file_011_23192324.mat  
@@ -88,7 +88,7 @@ figures/
 
 ## File Descriptions
 
-YasinBüyükarslan-1626421.m  
+signalanalyse.m  
 Main MATLAB script that:
 - loads vibration measurement data (.mat)
 - performs time-domain analysis
@@ -100,11 +100,6 @@ Main MATLAB script that:
 hcurve_fun.m  
 Helper function for envelope extraction using the Hilbert transform.
 
-Condition Monitoring-YasinBüyükarslan.pptx  
-Presentation summarizing methodology, results, and interpretation.
-
-Damage detection on bearings 2024_2025.pdf  
-Written report documenting theory, implementation, and conclusions.
 
 ---
 
@@ -141,7 +136,7 @@ cd <repository-folder>
    (or update the file paths inside the main script).
 
 3. Run the main script in MATLAB:
-run('YasinBüyükarslan-1626421.m')
+run('signalanalyse.m')
 
 ---
 
